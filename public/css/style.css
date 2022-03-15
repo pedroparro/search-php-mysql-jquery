@@ -1,0 +1,22 @@
+/*Author: Pedro Parro*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2 {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+h4 {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+.msg {
+    background-color: red;
+    color: white;
+    text-align: center;
+}

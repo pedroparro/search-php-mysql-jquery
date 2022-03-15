@@ -1,0 +1,9 @@
+{
+    "name": "pedro/buscar",
+    "autoload": {
+        "psr-4": {
+            "Models\\":"./models/",
+            "Controllers\\":"./controllers/"
+        }
+    }
+}
